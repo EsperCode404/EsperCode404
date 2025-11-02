@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=150&text=Hey,%20I'm%20Akshu%20K&fontSize=45&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=BCA%20Graduate%20|%20AI%20%26%20Data%20Science%20Enthusiast%20|%20Full-Stack%20Developer&descSize=25&descAlignY=85&section=header" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akshu+K+👋;AI+%26+Data+Science+Graduate;Full-Stack+Developer;API+Designer+%7C+Interface+Creator;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
 I’m **Akshu K**, a BCA graduate specialized in **Data Science and Artificial Intelligence**.  
 I enjoy developing **intelligent applications**, designing **clean interfaces**, and integrating **AI-powered APIs** that make data feel alive.  
