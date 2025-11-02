@@ -34,6 +34,8 @@ From crafting **AI-driven interfaces** to developing **movie recommendation syst
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsakshu08&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsakshu08&count_private=true&show_icons=true&theme=react&hide_border=false)
+
 ---
 
 ### 🧩 Most Used Languages
