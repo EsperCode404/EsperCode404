@@ -15,8 +15,7 @@ From **movie recommendation systems** to **HUD-inspired portfolio designs**, I s
 
 
 ### 📬 Connect with Me
-[![Discord Badge](https://img.shields.io/badge/style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/805123459566010417)
-
+[!]
 ---
 
 ### 🧠 Skills
