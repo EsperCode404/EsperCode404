@@ -16,7 +16,6 @@ I enjoy developing **intelligent applications**, designing **clean interfaces**,
 
 
 
-
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
