@@ -49,16 +49,9 @@ I enjoy developing **intelligent applications**, designing **clean interfaces**,
 
 ---
 
-### 🧩 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsperCode404&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
-
----
 
 <p align="center">
   <i>“Designed with 💙 by EsperCode404”</i>
 </p>
 
 ---
-## 🏆 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=EsperCode404&limit=5&theme=react&combine_all_yearly_contributions=true)
