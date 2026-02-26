@@ -47,13 +47,11 @@ I enjoy developing **intelligent applications**, designing **clean interfaces**,
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsperCode404&theme=react-dark&hide_border=false)
 
-"If you vibe with my work, a ⭐️ or a Follow helps keep the system running."
-
 ---
 
 
 <p align="center">
-  <i>“Designed with 💙 by EsperCode404”</i>
+  <i>"If you vibe with my work, a ⭐️ or a Follow helps keep the system running."</i>
 </p>
 
 ---
