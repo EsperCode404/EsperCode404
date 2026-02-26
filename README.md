@@ -21,23 +21,24 @@
 
 ---
 
-<h3 align="center">⚙️ Core Tooling</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux&theme=dark" />
-  </a>
-</p>
-
----
-
 <h3 align="center">📊 System Analytics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EsperCode404&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" height="155" />
   <img src="https://streak-stats.demolab.com?user=EsperCode404&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" height="155" />
 </p>
 
+<h4 align="center">🐍 Snake eating my contribution</h4>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EsperCode404&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=61DAFB" width="100%" />
+  <img src="https://raw.githubusercontent.com/EsperCode404/EsperCode404/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
+
+<h3 align="center">⚙️ Core Tooling</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux&theme=dark" />
+  </a>
 </p>
 
 ---
