@@ -10,7 +10,7 @@ I enjoy developing **intelligent applications**, designing **clean interfaces**,
 
 ---
 
-<img align="right" alt="AI Developer" width="400" src="https://i.pinimg.com/736x/ca/10/fb/ca10fb9ab0919c9f52ef3bb407f7c2d0.jpg">
+<img align="right" alt="AI Developer" width="400" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
 
